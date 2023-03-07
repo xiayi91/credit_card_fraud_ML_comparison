@@ -14,7 +14,10 @@ viz/
 .ipynb_checkpoints/
 
 # html/
-html/assignment*
+html/
 
 # submission/
 submission/
+
+# files
+Train - XGboost + LightGBM-draft.ipynb
